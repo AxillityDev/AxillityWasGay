@@ -1,2 +1,6 @@
 <img src=https://c.tenor.com/5BYK-WS0__gAAAAd/tenor.gif>
-[![All Contributors](https://img.shields.io/github/all-contributors/Margouta/PluginOpenMC?color=ee8449&style=flat-square)](#contributors)
+<a href="https://github.com/Margouta/PluginOpenMC/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Margouta/PluginOpenMC" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
